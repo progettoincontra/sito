@@ -16,4 +16,4 @@ Grazie al lavoro dei ragazzi abbiamo allestito DUE sale:
 * la sala TV, già operativa da ieri con TV 49'' e abbonamento alla pay-tv dove ci ritroveremo per vedere tutte le partite di serie A, la Champions, tutto lo sport, i film e tutto quello che più ci piace;
 * la sala Blu, allestita per riunioni, momenti di aggregazione e di svago; Abbiamo ripristinato la funzionalità dei servizi igienici assicurando la completa accessibilità.
 
-Vieni e partecipa anche tu il 27 SETTEMBRE, DALLE ORE 19 alla inaugurazione della nostra sede e diventa anche tu parte attiva di PROGETTO InConTra.
+Vieni e partecipa anche tu il **27 SETTEMBRE, DALLE ORE 19** alla inaugurazione della nostra sede e diventa anche tu parte attiva di PROGETTO InConTra.
