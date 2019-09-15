@@ -1,5 +1,5 @@
 ---
-title: INAUGURAZIONE PROGETTO INCONTRA
+title: INAUGURAZIONE PROGETTO InConTra
 date: 2018-05-12T06:14:34.000+00:00
 image: ''
 description: This is meta description.
@@ -7,7 +7,7 @@ author: Antonio Faraone
 type: post
 
 ---
-TI ASPETTIAMO IL **27 SETTEMBRE DALLE ORE 19** PER L'INAUGURAZIONE DELLA SEDE DELL'ASSOCIAZIONE "PROGETTO InConTra".
+Ti aspettiamo il **27 Settembre dalle ore 19** per l'inaugurazione della sede dell'associazione "Progetto InConTra".
 
 Comunichiamo a tutti che abbiamo chiesto e ottenuto in concessione i locali della ex scuola materna in Contrada Perolla come sede per la nostra associazione.  
 Già da qualche settimana stiamo lavorando per il recupero, la pulizia e la cura di quella che sarà la nostra casa e il luogo per gli eventi in calendario.
