@@ -7,7 +7,7 @@ author: Antonio Faraone
 type: post
 
 ---
-Ti aspettiamo il 27 Settembre dalle ore 19 per l'inaugurazione della sede dell'associazione "Progetto InConTra".
+Ti aspettiamo il **27 Settembre dalle ore 19** per l'inaugurazione della sede dell'associazione "Progetto InConTra".
 
 Comunichiamo a tutti che abbiamo chiesto e ottenuto in concessione i locali della ex scuola materna in Contrada Perolla come sede per la nostra associazione.Già da qualche settimana stiamo lavorando per il recupero, la pulizia e la cura di quella che sarà la nostra casa e il luogo per gli eventi in calendario.
 
