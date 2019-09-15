@@ -1,4 +1,4 @@
-baseURL = "https://incontra.it"
+baseURL = "https://progettoincontra.netlify.com/"
 languageCode = "it-IT"
 title = "Progetto InConTra"
 theme = "kross-hugo"
