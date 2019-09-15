@@ -1,0 +1,11 @@
+{{ if .Site.Params.preloader.enable }}
+{{ "<!-- preloader start -->" | safeHTML }}
+<div class="preloader">
+    <div class="loader-container">
+        <div class="loader-logo">
+            <div class="loader-circle"></div>
+        </div>
+    </div>
+</div>
+{{ "<!-- preloader end -->" | safeHTML }}
+{{ end }}

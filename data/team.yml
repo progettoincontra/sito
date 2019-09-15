@@ -1,0 +1,30 @@
+member:
+  - title : "Nome Cognome"
+    image : "images/team/member-3.png"
+    designation : "Tutto Fare"
+    linkFb : "https://www.facebook.com/antoniofaraone93"
+    
+  - title : "Nome Cognome"
+    image : "images/team/member-2.png"
+    designation : "Tutto Fare"
+    linkFb : "https://www.facebook.com/gianlu.potenza"
+    
+  - title : "Nome Cognome"
+    image : "images/team/member-3.png"
+    designation : "Tutto Fare"
+
+  - title : "Nome Cognome"
+    image : "images/team/member-2.png"
+    designation : "Tutto Fare"
+
+  - title : "Nome Cognome"
+    image : "images/team/member-3.png"
+    designation : "Tutto Fare"
+
+  - title : "Nome Cognome"
+    image : "images/team/member-2.png"
+    designation : "Tutto Fare"
+
+  - title : "Nome Cognome"
+    image : "images/team/member-3.png"
+    designation : "Tutto Fare"
