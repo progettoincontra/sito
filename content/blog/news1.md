@@ -1,7 +1,7 @@
 ---
 title: INAUGURAZIONE PROGETTO InConTra
 date: 2019-09-15T00:00:00+02:00
-image: Opening Soon Banner 2.jpg
+image: https://res2.forestry.io/K4eFnq5T8q2Mr8JyXq5_gALXXFMwthv1V9tNFTXnF6U/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVURGVk1GRkZQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tNTY3/Nzk4MDIzYzNlYzI2/MzY0NjZkMzc3OTEz/MzAyNDk3MzcwZGFh/MS9PcGVuaW5nJTIw/U29vbiUyMEJhbm5l/ciUyMDIuanBn
 description: This is meta description.
 author: Antonio Faraone
 type: post
