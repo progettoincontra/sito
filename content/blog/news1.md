@@ -1,7 +1,7 @@
 ---
 title: INAUGURAZIONE PROGETTO InConTra
-date: 2018-05-12T06:14:34.000+00:00
-image: ''
+date: 2019-09-15T00:00:00+02:00
+image: Opening Soon Banner 2.jpg
 description: This is meta description.
 author: Antonio Faraone
 type: post
