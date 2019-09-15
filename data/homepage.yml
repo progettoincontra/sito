@@ -28,19 +28,19 @@ skill:
   enable : true
   skillbar:
     - title : "Politica"
-      progress : "90%"
+      progress : "40%"
       color : "#fb4d3d"
       
     - title : "Eventi"
-      progress : "60%"
+      progress : "30%"
       color : "#ca1551"
       
     - title : "Sport"
-      progress : "80%"
+      progress : "20%"
       color : "#345995"
       
-    - title : "Quello che vuoi"
-      progress : "70%"
+    - title : "Altro"
+      progress : "10%"
       color : "#03cea4"
 
 # experience
