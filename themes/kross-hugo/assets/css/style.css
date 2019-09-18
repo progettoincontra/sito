@@ -543,7 +543,8 @@ textarea.form-control {
     top: 390px;
   }
   .bg-shape-3,
-  .bg-shape-6 {
+  .bg-shape-6,
+  .bg-shape-7 {
     display: none;
   }
 }
