@@ -73,3 +73,11 @@ googleAnalitycsID = "144987748"
   email = "proincontra@gmail.com"
   phone = "21654654"
   address = "c.da Perolla Savoia di Lucania"
+
+[build]
+    command = "hugo"
+    publish = "public"
+
+[context.production]
+    [context.production.environment]
+        HUGO_ENV = "production"
