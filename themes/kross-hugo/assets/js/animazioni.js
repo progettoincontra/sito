@@ -16,8 +16,6 @@
         console.log($(this).attr('href'));
 
       if ($(this).attr('href') == loc || $(this).attr('href')+"/" == loc) {
-          console.log("entrato");
-          console.log($(this));
           $(this).parent().addClass("active");
       }
    });

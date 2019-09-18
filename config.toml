@@ -4,6 +4,7 @@ title = "Progetto InConTra"
 theme = "kross-hugo"
 summaryLength = "10"
 
+enableRobotsTXT = true
 # Plugins
 [params.plugins]
 
