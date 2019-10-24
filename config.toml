@@ -4,7 +4,7 @@ title = "Progetto InConTra"
 theme = "kross-hugo"
 summaryLength = "10"
 
-enableRobotsTXT = true
+enableRobotsTXT = "true"
 # Plugins
 [params.plugins]
 
@@ -14,7 +14,7 @@ enableRobotsTXT = true
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
+  URL = "plugins/themify-icons/ -icons.css"
 
   # JS Plugins
   [[params.plugins.js]]
