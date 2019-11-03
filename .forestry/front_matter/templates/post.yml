@@ -20,3 +20,5 @@ fields:
 - type: text
   name: type
   label: type
+pages:
+- content/blog/il-cervellone.md
