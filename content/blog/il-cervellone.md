@@ -2,10 +2,9 @@
 author = "Antonio Faraone"
 date = 2019-11-03T16:00:00Z
 description = ""
-draft = true
-image = "https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/74952251_1425265224304346_305483122340790272_n.jpg?_nc_cat=110&_nc_oc=AQkt9UYUhCmliyFE33Jg7N6bkvbdIifTlTDHA49DXaZPk9QxQUyakiXA3gVYqG1yMbQ&_nc_ht=scontent-mxp1-1.xx&oh=100935dc1d08b7e38217cfb3d1624822&oe=5E579AEE"
+image = "https://res2.forestry.io/VbBmz1sJI1qSZ3SQmDZL2YDeYyAlBsjc2YKm-VX-xvo/fit/512/512/sm/0/aHR0cHM6Ly9hcHAu/Zm9yZXN0cnkuaW8v/cmFpbHMvYWN0aXZl/X3N0b3JhZ2UvYmxv/YnMvZXlKZmNtRnBi/SE1pT25zaWJXVnpj/MkZuWlNJNklrSkJh/SEJDVERFM1YwRkpQ/U0lzSW1WNGNDSTZi/blZzYkN3aWNIVnlJ/am9pWW14dllsOXBa/Q0o5ZlE9PS0tZjEz/NWY1NjYyZDBhMDdk/ZDhjNGQxNGVmZGYz/YjRmMDdjMmI5NTI5/NC83NDk1MjI1MV8x/NDI1MjY1MjI0MzA0/MzQ2XzMwNTQ4MzEy/MjM0MDc5MDI3Ml9u/LmpwZw"
 title = "Il Cervellone"
-type = ""
+type = "evento"
 
 +++
 Avete ripassato la geografia? E in storia come state messi? Attenti anche alle domande d'attualità e poi ancora sulla musica, e indovina la parola.. Insomma vediamo quante ne sapete! Venite a divertirvi domani con il social quiz più conosciuto o anche solo a mangiare un buon panino e bere una bella birra in compagnia. Noi siamo pronti, Il Cervellone dell'Associazione. Domani 3 Novembre ore 20 presso la nostra sede. Ti aspettiamo.
