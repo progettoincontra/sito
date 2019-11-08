@@ -1,2 +1,2 @@
 User-agent: *
-Allow: {{ if  neq (getenv "HUGO_ENV") "production" }}/{{ end }}
+Allow: {{ if  ne (getenv "HUGO_ENV") "production" }}/{{ end }}
