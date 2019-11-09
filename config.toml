@@ -14,7 +14,7 @@ enableRobotsTXT = "true"
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "plugins/themify-icons/ -icons.css"
+  URL = "plugins/themify-icons/themify-icons.css"
 
   # JS Plugins
   [[params.plugins.js]]
